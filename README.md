@@ -7,4 +7,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Pueden hacer lo que quieran...
 
 ## GIT HUB
-Cambios realizados en GitHub
+He modificado GIT HUB y ahora edito
